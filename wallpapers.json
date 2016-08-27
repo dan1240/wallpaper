@@ -1,0 +1,52 @@
+{
+   "wallpapers": [
+      {
+         "author": "Dan Perez",
+         "url": "https://raw.githubusercontent.com/dan1240/wallpaper/master/wallpapers/Brown%20Orbs.png",
+         "name":"Brown Orbs",
+         "thumbnail": "https://raw.githubusercontent.com/dan1240/wallpaper/master/wallpapers/preview/Brown%20Orbs.jpg"
+      },
+      {
+         "author": "Dan Perez",
+         "url": "https://raw.githubusercontent.com/dan1240/wallpaper/master/wallpapers/Dark%20Minimal.png",
+         "name": "Dark Minimal",
+         "thumbnail": "https://raw.githubusercontent.com/dan1240/wallpaper/master/wallpapers/preview/Dark%20Minimal.jpg"
+      },
+      {
+         "author": "Dan Perez",
+         "url": "https://raw.githubusercontent.com/dan1240/wallpaper/master/wallpapers/Dark%20Orbs.png",
+         "name": "Dark Orbs",
+         "thumbnail": "https://raw.githubusercontent.com/dan1240/wallpaper/master/wallpapers/preview/Dark%20Orbs.jpg"
+      },
+      {
+         "author":"Dan Perez",
+         "url":"https://raw.githubusercontent.com/dan1240/wallpaper/master/wallpapers/Dark%20Rays.png",
+         "name":"Dark Rays",
+         "thumbnail":"https://raw.githubusercontent.com/dan1240/wallpaper/master/wallpapers/preview/Dark%20Rays.jpg"
+      },
+      {
+         "author": "Dan Perez",
+         "url": "https://raw.githubusercontent.com/dan1240/wallpaper/master/wallpapers/Leaf%20Abstract.png",
+         "name": "Leaf Abstract",
+         "thumbnail": "https://raw.githubusercontent.com/dan1240/wallpaper/master/wallpapers/preview/Leaf%20Abstract.jpg"
+      },
+      {
+         "author": "Dan Perez",
+         "url": "https://raw.githubusercontent.com/dan1240/wallpaper/master/wallpapers/Minima%20Dark.jpg",
+         "name": "Minima Dark",
+         "thumbnail": "https://raw.githubusercontent.com/dan1240/wallpaper/master/wallpapers/preview/Minima%20Dark.jpg"
+      },
+      {
+         "author": "Dan Perez",
+         "url": "https://raw.githubusercontent.com/dan1240/wallpaper/master/wallpapers/Mnimal%20Streaks.png",
+         "name": "Minimal Streaks",
+         "thumbnail": "https://raw.githubusercontent.com/dan1240/wallpaper/master/wallpapers/preview/Mnimal%20Streaks.jpg"
+      },
+      {
+         "author": "Dan Perez",
+         "url": "https://raw.githubusercontent.com/dan1240/wallpaper/master/wallpapers/Red%20Material.png",
+         "name": "Red Material",
+         "thumbnail": "https://raw.githubusercontent.com/dan1240/wallpaper/master/wallpapers/preview/Red%20Material.jpg"
+      }
+   ]
+}
